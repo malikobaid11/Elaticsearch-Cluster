@@ -1,5 +1,3 @@
-# Elaticsearch-Cluster
-
 # Elasticsearch Cluster Setup
 
 This repository contains step-by-step instructions to set up an Elasticsearch cluster with:

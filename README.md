@@ -1,5 +1,4 @@
 # Elasticsearch Cluster Setup
-# High-availability Elasticsearch cluster setup with load balancing, Kibana integration, and backup/restore support.
 
 This repository contains step-by-step instructions to set up an Elasticsearch cluster with:
 - 2 Master Nodes

@@ -18,7 +18,7 @@ This repository contains step-by-step instructions to set up an Elasticsearch cl
 - `BACKUP_RESTORE.md`: Guide for backing up and restoring the Elasticsearch cluster.
 
 ## Quick Start
-Follow the instructions in [INSTALLATION.md](INSTALLATION.md) to set up your cluster.
+Follow the instructions in [INSTALLATION.md](INSTALLATION.md) to set up the cluster.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

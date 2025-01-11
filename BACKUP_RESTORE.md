@@ -11,7 +11,7 @@ curl -XPUT 'http://<Master Node IP>:8917/_snapshot/s3_repository?verify=false&pr
 -H 'Content-Type: application/json' -d'{
   "type": "s3",
   "settings": {
-    "bucket": "test-epc",
+    "bucket": "test-abc",
     "base_path": "malikobaid/testrepo",
     "region": "eu-west-1",
     "access_key": "<AWS_ACCESS_KEY>",

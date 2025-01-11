@@ -19,3 +19,4 @@ curl -XPUT 'http://<Master Node IP>:8917/_snapshot/s3_repository?verify=false&pr
   }
 }'
 
+curl -X PUT "http://<Master Node IP>:8917/_snapshot/s3_repository/snapshot_1?wait_for_completion=true"

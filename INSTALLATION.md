@@ -9,4 +9,8 @@
 sudo apt update
 sudo apt install apt-transport-https
 
+### Step 2: Install OpenJDK
+```bash
+sudo apt install openjdk-8-jdk
+java -version
 

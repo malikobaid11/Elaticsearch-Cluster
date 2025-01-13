@@ -20,5 +20,3 @@ This repository contains step-by-step instructions to set up an Elasticsearch cl
 ## Quick Start
 Follow the instructions in [INSTALLATION.md](INSTALLATION.md) to set up the cluster.
 
-## License
-This project is licensed under the [MIT License](LICENSE).

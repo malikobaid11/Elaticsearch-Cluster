@@ -9,9 +9,11 @@
 -sudo apt update
 -sudo apt install apt-transport-https
 
-## Step 2: Install OpenJDK
-Install OpenJDK 8, which is required by Elasticsearch:
 ```
+
+### Step 2: Install OpenJDK
+Install OpenJDK 8, which is required by Elasticsearch:
+
 
 ```bash
 sudo apt install openjdk-8-jdk

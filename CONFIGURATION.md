@@ -1,12 +1,8 @@
 
----
 
-#### **CONFIGURATION.md**
-```markdown
 # Configuration Guide
 
 ## Elasticsearch Cluster
-```
 
 ### Master Nodes Configuration
 Edit `/etc/elasticsearch/elasticsearch.yml`:
@@ -32,5 +28,7 @@ node.ingest: true
 network.host: <Data Node IP>
 discovery.seed_hosts: ["<Master Node IP>"]
 ```
+
+
 
 

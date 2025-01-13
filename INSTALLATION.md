@@ -34,5 +34,7 @@ sudo systemctl start elasticsearch.service
 Step 4: Install Kibana (Master Nodes Only)
 
 ```bash
-sudo apt-get install nginx
+sudo apt-get update && sudo apt-get install kibana
+sudo systemctl start kibana.service
+sudo systemctl enable kibana.service
 ```
